@@ -1,4 +1,4 @@
-# Sublime text settings
+#Sublime settings.
 {
 	"align_content_highlight_bar": false,
 	"always_show_minimap_viewport": true,
@@ -13,12 +13,12 @@
 	"content_highlight_bar": false,
 	"debug_enable": false,
 	"fade_fold_buttons": false,
+	"font_face": "Monospace",
 	"font_options":
 	[
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 12,
 	"high_visibility_color": "bracket",
 	"high_visibility_enabled_by_default": false,
 	"high_visibility_style": "outline",
